@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(https://image.freepik.com/foto-gratis/vista-superior-amigos-comiendo-hamburguesas-papas-fritas_23-2148718899.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin: 50px;
+    position: relative;
+    border: 4mm ridge rgba(255, 217, 0, 0.979);
+    padding: 50px;
+    width: 500px;
+    height: 600;
+}
+
+img {
+    width: 400px;
+}
