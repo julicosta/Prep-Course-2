@@ -1,0 +1,136 @@
+.fotojuli {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    border-radius: 100%;
+    border: solid 5px;
+}
+
+#cara {
+    border-radius: 100%;
+    top: 20px;
+    left: 150px;
+}
+
+#linea {
+    position: absolute;
+    left: 670px;
+    height: 1200px;
+}
+
+#linea2 {
+    position: absolute;
+    left: 70px;
+    height: 1200px;
+}
+
+.circulo {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 658px;
+    top: 32px;
+}
+
+.circulo2 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 658px;
+    top: 160px;
+}
+
+.circulo3 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 658px;
+    top: 495px;
+}
+
+.circulo4 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 658px;
+    top: 680px;
+}
+
+.circulo5 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 658px;
+    top: 815px;
+}
+
+.circulo6 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 58px;
+    top: 370px;
+}
+
+.circulo7 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 100%;
+    left: 58px;
+    top: 905px;
+}
+
+.Dpersonal {
+    position: absolute;
+    left: 700px;
+}
+
+.Educacion {
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+
+.ExpLaboral {
+    position: absolute;
+    left: 700px;
+    top: 500px;
+}
+
+.Hobbies {
+    position: absolute;
+    left: 700px;
+    top: 700px;
+}
+
+.Porqueprog {
+    position: absolute;
+    left: 700px;
+    top: 850px;
+}
+
+.skills {
+    position: absolute;
+    left: 100px;
+    top: 420px;
+}
+
+.Idiomas {
+    position: absolute;
+    left: 100px;
+    top: 970px;
+}
